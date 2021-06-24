@@ -1,0 +1,11 @@
+app:
+  name: Library Service
+  api:
+    title: Spring Boot APIs
+    version: 1.0.0
+    description: Spring Boot - Library Service
+    base-package: com.va.controller
+    contact-name: Venkatesh Ankarapu
+    contact-email: venky.pin2@gmail.com
+    swagger:
+      enable: true
